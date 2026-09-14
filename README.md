@@ -12,7 +12,7 @@ I build automated, data-driven systems to extract mathematical edge from financi
 
 ### 📂 Featured Systems
 *   **Scorpion:** MQL5 execution framework with atomic risk validation and adaptive environment awareness.
-*   **QuanChi:** High-frequency liquidation bot for Aave v3 (Polygon).
+*   **Quan Chi:** High-frequency liquidation bot for Aave v3 (Polygon).
 *   **Noob Saibot:** High-frequency liquidation bot for Hyperliquid.
 
 *"Executing logic, eliminating emotion."*
